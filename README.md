@@ -1,4 +1,4 @@
-### Next Tech Test
+### N.T.T
 
 The project is built with React, TypeScript and Redux Toolkit
 
